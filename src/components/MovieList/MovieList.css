@@ -1,0 +1,6 @@
+.movie_list {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+    background-color: rgb(20, 20, 20);
+}
